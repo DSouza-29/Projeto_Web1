@@ -449,6 +449,52 @@ a:hover{
 
 }
 
+/* //////Sobre autor\\\\\\\ */
+
+.sobrenos{
+    height: 100vh;
+    
+    
+}
+
+.bloco10{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+    
+}
+.bloco10 img{
+    height: 400px;
+    border-radius: 100%;
+}
+.bloco11{
+    width: 30vw;
+}
+.bloco11 h2{
+    font-family: serif;
+    font-size: 60px;
+    font-weight: 300;
+    color: var(--cor-1);
+    margin: 0;
+
+}
+.bloco21{
+    display: flex;
+    justify-content: space-around;
+    height: 30vh;
+    align-items: center;
+}
+
+.bloco21 p{
+    width: 40vw;
+    
+}
+
+
+
+
 
 
 
