@@ -1,0 +1,28 @@
+.quantidade {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.quantidade button {
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.quantidade button:hover {
+    background-color: #0056b3;
+}
+
+.quantidade input {
+    width: 50px;
+    text-align: center;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+}
